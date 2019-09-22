@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="spring-boot-starter-vertx">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/main/resources/spring-boot-starter-vertx.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
